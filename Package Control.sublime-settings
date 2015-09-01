@@ -6,10 +6,7 @@
 	"installed_packages":
 	[
 		"Alignment",
-		"ConvertToUTF8",
 		"CTags",
-		"Package Control",
-		"SublimeCodeIntel",
-		"Terminal"
+		"Package Control"
 	]
 }
